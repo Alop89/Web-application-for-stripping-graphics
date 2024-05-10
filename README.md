@@ -1,6 +1,6 @@
 # project_5
 
-Esta aplicación web generá un gráfico histograma y un gráfico de dispersión relacionados a la venta de autos
+This interactive web application allows you to comprehensively visualize and analyze car sales data. With just a few clicks, you can generate two powerful graphs: a histogram and a scatter plot, which provide you with information about trends and patterns in car sales.
 
 URL de la aplicación
 
